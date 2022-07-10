@@ -64,7 +64,7 @@ function Counter() {
 function Addmovieinputs() {
 return(
   <div className='inputs'>
-    <input style= {{textAlign: "center"}} placeholder='Enter a Movie Name'/>
+    <input style= {{textAlign: "left"}} placeholder='Enter a Movie Name'/>
     <input style= {{textAlign: "center"}} placeholder='Enter poster url'/>
     <input style= {{textAlign: "center"}} placeholder='Enter Movie Description'/>
     <button>AddMovie</button>
