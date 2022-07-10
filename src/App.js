@@ -72,23 +72,23 @@ return(
 )
 }
 
-function Moviebox(){
+// function Moviebox(){
 
-  return(
-    <div>
-    <button>like</button>
+//   return(
+//     <div>
+//     <button>like</button>
 
-    <button>like</button>
+//     <button>like</button>
 
-    <button>like</button>
+//     <button>like</button>
 
-    <button>like</button>
+//     <button>like</button>
 
 
-    <button>like</button>
+//     <button>like</button>
 
-    </div>
-  )
-}
+//     </div>
+//   )
+// }
 
 export default App;
