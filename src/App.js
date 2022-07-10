@@ -76,6 +76,17 @@ function Moviebox(){
 
   return(
     <div>
+    <button>like</button>
+
+    <button>like</button>
+
+    <button>like</button>
+
+    <button>like</button>
+
+
+    <button>like</button>
+
     </div>
   )
 }
